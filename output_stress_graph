@@ -1,0 +1,100 @@
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.940674304962158 seconds
+Current memory usage: 80.577149 MB; Peak: 115.92631 MB
+CPU usage: 1.7999999999999998 %
+Memory usage: 239.316992 MB
+-- for cores = 24
+
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.896019458770752 seconds
+Current memory usage: 80.574382 MB; Peak: 115.923184 MB
+CPU usage: 0.5999999999999996 %
+Memory usage: 305.840128 MB
+-- for cores = 22
+
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.9002182483673096 seconds
+Current memory usage: 80.572235 MB; Peak: 115.921008 MB
+CPU usage: 0.2999999999999998 %
+Memory usage: 369.68448 MB
+-- for cores = 20
+
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.9056506156921387 seconds
+Current memory usage: 80.566171 MB; Peak: 115.913823 MB
+CPU usage: 1.8999999999999995 %
+Memory usage: 226.725888 MB
+-- for cores = 18
+
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.8728561401367188 seconds
+Current memory usage: 80.563461 MB; Peak: 115.907713 MB
+CPU usage: 1.0 %
+Memory usage: 298.778624 MB
+-- for cores = 16
+
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.907585859298706 seconds
+Current memory usage: 80.560484 MB; Peak: 115.910277 MB
+CPU usage: 3.4000000000000004 %
+Memory usage: 236.40064 MB
+-- for cores = 14
+
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.8980720043182373 seconds
+Current memory usage: 80.557487 MB; Peak: 115.904585 MB
+CPU usage: 2.5 %
+Memory usage: 250.638336 MB
+-- for cores = 12
+
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.8822391033172607 seconds
+Current memory usage: 80.554453 MB; Peak: 115.901018 MB
+CPU usage: 0.9000000000000004 %
+Memory usage: 238.61248 MB
+-- for cores = 10
+
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.8813960552215576 seconds
+Current memory usage: 80.551223 MB; Peak: 115.897312 MB
+CPU usage: 1.2999999999999998 %
+Memory usage: 254.951424 MB
+--for cores = 8
+
+Result for parts_nearing_expiry: 0
+Result for average_demand_for_product_offerings: 52.13916666666667
+Result for total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.868194818496704 seconds
+Current memory usage: 80.547692 MB; Peak: 115.893483 MB
+CPU usage: 0.9000000000000004 %
+Memory usage: 279.47008 MB
+-- for cores = 6
+

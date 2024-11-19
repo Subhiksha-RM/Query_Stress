@@ -1,0 +1,113 @@
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.8277480602264404 seconds
+Current memory usage: 0.950383 MB; Peak: 0.989917 MB
+CPU usage: 7.8 %
+Memory usage: 43.610112 MB
+--for coes = 24
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.816662311553955 seconds
+Current memory usage: 0.947756 MB; Peak: 0.98729 MB
+CPU usage: 7.6 %
+Memory usage: 42.242048 MB
+-- for cores = 22
+
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.808204412460327 seconds
+Current memory usage: 0.944837 MB; Peak: 0.984371 MB
+CPU usage: 7.9 %
+Memory usage: 72.245248 MB
+--for cores = 20
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.8383004665374756 seconds
+Current memory usage: 0.938901 MB; Peak: 0.978435 MB
+CPU usage: 7.6 %
+Memory usage: 17.035264 MB
+--for cores = 18
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.7979507446289062 seconds
+Current memory usage: 0.935323 MB; Peak: 0.974857 MB
+CPU usage: 7.5 %
+Memory usage: 38.887424 MB
+-- for cores = 16
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.772688150405884 seconds
+Current memory usage: 0.932291 MB; Peak: 0.971825 MB
+CPU usage: 7.5 %
+Memory usage: 17.747968 MB
+-- for cores =14
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.785243034362793 seconds
+Current memory usage: 0.929303 MB; Peak: 0.968869 MB
+CPU usage: 7.4 %
+Memory usage: 9.101312 MB
+-- for cores =12
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.872209310531616 seconds
+Current memory usage: 0.926275 MB; Peak: 0.965809 MB
+CPU usage: 7.9 %
+Memory usage: 27.91424 MB
+-- for cores =10
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.803614854812622 seconds
+Current memory usage: 0.92265 MB; Peak: 0.962184 MB
+CPU usage: 7.1 %
+Memory usage: 17.702912 MB
+--for cores = 8
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.8465170860290527 seconds
+Current memory usage: 0.920458 MB; Peak: 0.959992 MB
+CPU usage: -1.5999999999999996 %
+Memory usage: 24.375296 MB
+
+
+Result for aggregate_parts_nearing_expiry: 0
+Result for aggregate_average_demand_for_product_offerings: 52.13916666666667
+Result for aggregate_total_operating_cost_of_facilities: 1147088.0000000002
+Result for aggregate_relationship_costs: (9845326.200000003, 10232735.800000003)
+Total time taken: 2.7766661643981934 seconds
+Current memory usage: 0.914769 MB; Peak: 0.954303 MB
+CPU usage: 7.1 %
+Memory usage: 18.948096 MB
+--for cores = 4
+
+
+
