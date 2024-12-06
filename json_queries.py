@@ -1,5 +1,5 @@
-import os
 import json
+import os
 
 def load_data(file_path):
     with open(file_path, 'r') as file:
@@ -39,7 +39,7 @@ def aggregate_total_revenue_by_business_unit(folder_path):
 
 def parts_nearing_expiry(data, threshold):
     nodes = data.get('nodes', [])
-    return [node for node in nodes if node.get('node_type') == 'Part' and node.get('expiry_days', 0) <= threshold]
+    return [node for node in nodes if node.get('node_type') == 'Parts' and node.get('expiry', 0) <= threshold]
 
 def aggregate_parts_nearing_expiry(folder_path, threshold):
     total_parts_near_expiry = 0

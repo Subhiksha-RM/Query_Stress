@@ -57,7 +57,7 @@ def parts_nearing_expiry(graphs, threshold):
     for i, (G, file_name) in enumerate(graphs):
         parts_near_expiry = []
         for node_id, node_data in G.nodes(data=True):
-            if node_data.get('node_type') == 'Part' and node_data.get('expiry_days', 0) <= threshold:
+            if node_data.get('node_type') == 'Parts' and node_data.get('expiry', 0) <= threshold:
                 parts_near_expiry.append(node_id)
         if parts_near_expiry:
             print(f"Parts Nearing Expiry for {file_name}: {parts_near_expiry}")
